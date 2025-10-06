@@ -1,0 +1,1583 @@
+Signed in as
+Your Profile
+Create Ticket
+Create Agent
+Create Customer
+Sign Out
+Default Language (Optional)
+Username/Email
+create new
+Ticket Information
+CC/BCC
+Success! Label created successfully.
+Success! Label removed successfully.
+Reports
+Rating
+Kudos Rating
+Remove profile picture
+Success ! Profile updated successfully.
+Howdy
+Form successfully updated.
+NEW FORM
+Text Box
+Text Area
+Select
+Radio
+Checkbox
+Date
+Both Date and Time
+Choose a status
+Choose a group
+Choose your default timeformat
+Can manage Group's Saved Reply
+Can manage agent activity
+Slug is the url identity of this article. We will help you to create valid slug at time of typing.
+The URL for this article
+Title tags and meta descriptions are bits of HTML code in the header of a web page. They help search engines understand the content on a page. A page's title tag and meta description are usually shown whenever that page appears in search engine results
+comma separated (,)
+Article Title
+Start typing few charactors and add set of relevant article from the list
+Success! Announcement data saved successfully.
+Success! Category has been added successfully.
+Success ! Agent added successfully.
+Success! Privilege information saved successfully.
+Edit Prepared Response
+Success! Type removed successfully.
+No results available
+Success ! Prepared Response applied successfully.
+Note added to ticket successfully.
+Ticket status update to Spam
+Ticket status update to Closed
+Success! Label updated successfully.
+Success ! Helpdesk details saved successfully
+Can manage marketing announcement
+User Forgot Password
+Agent Deleted
+Agent Update
+Customer Update
+Customer Deleted
+Agent Updated
+Agent Reply
+Collaborator Added
+Collaborator Reply
+Customer Reply
+Ticket Deleted
+Group Updated
+Note Added
+Priority Updated
+Status Updated
+Team Updated
+Thread Updated
+Type Updated
+From Email
+To Email
+Is Equal To
+Is Not Equal To
+Contains
+Does Not Contain
+Starts With
+Ends With
+Before On
+After On
+Mail To User
+Transfer Tickets
+Mail To Customer
+Permanently delete from Inbox
+Agent Activity
+Report From
+Search Agent
+Agent Last Reply
+View analytics and insights to serve a better experience for your customers
+Marketing Announcement
+Advertisement
+Announcement
+New Announcement
+Add Announcement
+Edit Announcement
+Promo Text
+Promo Tag
+Choose a promo tag
+Tag-Color
+Tag background color
+Link Text
+Link URL
+Apps
+Integrate apps as per your needs to get things done faster than ever
+Explore Apps
+Form Builder
+Knowledgebase
+Knowledgebase is a source of rigid and complex information which helps Customers to help themselves
+Articles
+Categories
+Folders
+FOLDERS
+Productivity
+Automate your processes by creating set of rules and presets to respond faster to the tickets
+Prepared Responses
+Saved Replies
+Edit Saved Reply
+Ticket Types
+Workflows
+Settings
+Manage your Brand Identity, Company Information and other details at a glance
+Branding
+Custom Fields
+Email Settings
+Email Templates
+Mailbox
+Spam Settings
+Swift Mailer
+Tags
+Users
+Control your Groups, Teams, Agents and Customers
+Agents
+Customers
+Groups
+Privileges
+Teams
+Applications
+ECommerce Order Syncronization
+Import ecommerce order details to your support tickets from different available platforms
+Search
+Sort By
+Created At
+Name
+All
+Published
+Draft
+New Folder
+Create Knowledgebase Folder
+You did not add any folder to your Knowledgebase yet, Create your first Folder and start adding Categories/Articles to make your customers help themselves.
+Clear Filters
+Back
+Open
+Pending
+Answered
+Resolved
+Closed
+Spam
+New
+UnAssigned
+UnAnswered
+My Tickets
+Starred
+Trashed
+New Label
+Tickets
+Ticket Id
+Last Replied
+Assign To
+After Reply
+Customer Email
+Customer Name
+Assets Visibility
+Channel/Source
+Channel
+Website
+Timestamp
+TimeStamp
+Team
+Type
+Replies
+Agent
+ID
+Subject
+Last Reply
+Filter View
+Please select CAPTCHA
+Warning ! Please select correct CAPTCHA !
+reCAPTCHA Setting
+reCAPTCHA Site Key
+reCAPTCHA Secret key
+reCAPTCHA Status
+reCAPTCHA is Active
+Save set of filters as a preset to stay more productive
+Saved Filters
+No saved filter created
+Customer
+Priority
+Tag
+Source
+Before
+After
+Replies less than
+Replies more than
+Clear All
+Account
+Profile
+Upload a Profile Image (100px x 100px)<br> in PNG or JPG Format
+First Name
+Last Name
+Email
+Contact Number
+Timezone
+Africa/Abidjan
+Africa/Accra
+Africa/Addis_Ababa
+Africa/Algiers
+Africa/Asmara
+Africa/Bamako
+Africa/Bangui
+Africa/Banjul
+Africa/Bissau
+Africa/Blantyre
+Africa/Brazzaville
+Africa/Bujumbura
+Africa/Cairo
+Africa/Casablanca
+Africa/Ceuta
+Africa/Conakry
+Africa/Dakar
+Africa/Dar_es_Salaam
+Africa/Djibouti
+Africa/Douala
+Africa/El_Aaiun
+Africa/Freetown
+Africa/Gaborone
+Africa/Harare
+Africa/Johannesburg
+Africa/Juba
+Africa/Kampala
+Africa/Khartoum
+Africa/Kigali
+Africa/Kinshasa
+Africa/Lagos
+Africa/Libreville
+Africa/Lome
+Africa/Luanda
+Africa/Lubumbashi
+Africa/Lusaka
+Africa/Malabo
+Africa/Maputo
+Africa/Maseru
+Africa/Mbabane
+Africa/Mogadishu
+Africa/Monrovia
+Africa/Nairobi
+Africa/Ndjamena
+Africa/Niamey
+Africa/Nouakchott
+Africa/Ouagadougou
+Africa/Porto-Novo
+Africa/Sao_Tome
+Africa/Tripoli
+Africa/Tunis
+Africa/Windhoek
+America/Adak
+America/Anchorage
+America/Anguilla
+America/Antigua
+America/Araguaina
+America/Argentina/Buenos_Aires
+America/Argentina/Catamarca
+America/Argentina/Cordoba
+America/Argentina/Jujuy
+America/Argentina/La_Rioja
+America/Argentina/Mendoza
+America/Argentina/Rio_Gallegos
+America/Argentina/Salta
+America/Argentina/San_Juan
+America/Argentina/San_Luis
+America/Argentina/Tucuman
+America/Argentina/Ushuaia
+America/Aruba
+America/Asuncion
+America/Atikokan
+America/Bahia
+America/Bahia_Banderas
+America/Barbados
+America/Belem
+America/Belize
+America/Blanc-Sablon
+America/Boa_Vista
+America/Bogota
+America/Boise
+America/Cambridge_Bay
+America/Campo_Grande
+America/Cancun
+America/Caracas
+America/Cayenne
+America/Cayman
+America/Chicago
+America/Chihuahua
+America/Costa_Rica
+America/Creston
+America/Cuiaba
+America/Curacao
+America/Danmarkshavn
+America/Dawson
+America/Dawson_Creek
+America/Denver
+America/Detroit
+America/Dominica
+America/Edmonton
+America/Eirunepe
+America/El_Salvador
+America/Fort_Nelson
+America/Fortaleza
+America/Glace_Bay
+America/Godthab
+America/Goose_Bay
+America/Grand_Turk
+America/Grenada
+America/Guadeloupe
+America/Guatemala
+America/Guayaquil
+America/Guyana
+America/Halifax
+America/Havana
+America/Hermosillo
+America/Indiana/Indianapolis
+America/Indiana/Knox
+America/Indiana/Marengo
+America/Indiana/Petersburg
+America/Indiana/Tell_City
+America/Indiana/Vevay
+America/Indiana/Vincennes
+America/Indiana/Winamac
+America/Inuvik
+America/Iqaluit
+America/Jamaica
+America/Juneau
+America/Kentucky/Louisville
+America/Kentucky/Monticello
+America/Kralendijk
+America/La_Paz
+America/Lima
+America/Los_Angeles
+America/Lower_Princes
+America/Maceio
+America/Managua
+America/Manaus
+America/Marigot
+America/Martinique
+America/Matamoros
+America/Mazatlan
+America/Menominee
+America/Merida
+America/Metlakatla
+America/Mexico_City
+America/Miquelon
+America/Moncton
+America/Monterrey
+America/Montevideo
+America/Montserrat
+America/Nassau
+America/New_York
+America/Nipigon
+America/Nome
+America/Noronha
+America/North_Dakota/Beulah
+America/North_Dakota
+America/Ojinaga
+America/Panama
+America/Pangnirtung
+America/Paramaribo
+America/Phoenix
+America/Port-au-Prince
+America/Port_of_Spain
+America/Porto_Velho
+America/Puerto_Rico
+America/Punta_Arenas
+America/Rainy_River
+America/Rankin_Inlet
+America/Recife
+America/Regina
+America/Resolute
+America/Rio_Branco
+America/Santarem
+America/Santiago
+America/Santo_Domingo
+America/Sao_Paulo
+America/Scoresbysund
+America/Sitka
+America/St_Barthelemy
+America/St_Johns
+America/St_Kitts
+America/St_Lucia
+America/St_Thomas
+America/St_Vincent
+America/Swift_Current
+America/Tegucigalpa
+America/Thule
+America/Thunder_Bay
+America/Tijuana
+America/Toronto
+America/Tortola
+America/Vancouver
+America/Whitehorse
+America/Winnipeg
+America/Yakutat
+America/Yellowknife
+Antarctica/Casey
+Antarctica/Davis
+Antarctica/DumontDUrville
+Antarctica/Macquarie
+Antarctica/McMurdo
+Antarctica/Mawson
+Antarctica/Palmer
+Antarctica/Rothera
+Antarctica/Syowa
+Antarctica/Troll
+Antarctica/Vostok
+Arctic/Longyearbyen
+Asia/Aden
+Asia/Almaty
+Asia/Amman
+Asia/Anadyr
+Asia/Aqtau
+Asia/Aqtobe
+Asia/Ashgabat
+Asia/Atyrau
+Asia/Baghdad
+Asia/Bahrain
+Asia/Baku
+Asia/Bangkok
+Asia/Barnaul
+Asia/Beirut
+Asia/Bishkek
+Asia/Brunei
+Asia/Chita
+Asia/Choibalsan
+Asia/Colombo
+Asia/Damascus
+Asia/Dhaka
+Asia/Dili
+Asia/Dubai
+Asia/Dushanbe
+Asia/Famagusta
+Asia/Gaza
+Asia/Hebron
+Asia/Ho_Chi_Minh
+Asia/Hong_Kong
+Asia/Hovd
+Asia/Irkutsk
+Asia/Jakarta
+Asia/Jayapura
+Asia/Jerusalem
+Asia/Kabul
+Asia/Kamchatka
+Asia/Karachi
+Asia/Kathmandu
+Asia/Khandyga
+Asia/Kolkata
+Asia/Krasnoyarsk
+Asia/Kuala_Lumpur
+Asia/Kuching
+Asia/Kuwait
+Asia/Macau
+Asia/Magadan
+Asia/Makassar
+Asia/Manila
+Asia/Muscat
+Asia/Nicosia
+Asia/Novokuznetsk
+Asia/Novosibirsk
+Asia/Omsk
+Asia/Oral
+Asia/Phnom_Penh
+Asia/Pontianak
+Asia/Pyongyang
+Asia/Qatar
+Asia/Qostanay
+Asia/Qyzylorda
+Asia/Riyadh
+Asia/Sakhalin
+Asia/Samarkand
+Asia/Seoul
+Asia/Shanghai
+Asia/Singapore
+Asia/Srednekolymsk
+Asia/Taipei
+Asia/Tashkent
+Asia/Tbilisi
+Asia/Tehran
+Asia/Thimphu
+Asia/Tokyo
+Asia/Tomsk
+Asia/Ulaanbaatar
+Asia/Urumqi
+Asia/Ust-Nera
+Asia/Vientiane
+Asia/Vladivostok
+Asia/Yakutsk
+Asia/Yangon
+Asia/Yekaterinburg
+Asia/Yerevan
+Atlantic/Azores
+Atlantic/Bermuda
+Atlantic/Canary
+Atlantic/Cape_Verde
+Atlantic/Faroe
+Atlantic/Madeira
+Atlantic/Reykjavik
+Atlantic/South_Georgia
+Atlantic/St_Helena
+Atlantic/Stanley
+Australia/Adelaide
+Australia/Brisbane
+Australia/Broken_Hill
+Australia/Currie
+Australia/Darwin
+Australia/Eucla
+Australia/Hobart
+Australia/Lindeman
+Australia/Lord_Howe
+Australia/Melbourne
+Australia/Perth
+Australia/Sydney
+Europe/Amsterdam
+Europe/Andorra
+Europe/Astrakhan
+Europe/Athens
+Europe/Belgrade
+Europe/Berlin
+Europe/Bratislava
+Europe/Brussels
+Europe/Bucharest
+Europe/Budapest
+Europe/Busingen
+Europe/Chisinau
+Europe/Copenhagen
+Europe/Dublin
+Europe/Gibraltar
+Europe/Guernsey
+Europe/Helsinki
+Europe/Isle_of_Man
+Europe/Istanbul
+Europe/Jersey
+Europe/Kaliningrad
+Europe/Kiev
+Europe/Kirov
+Europe/Lisbon
+Europe/Ljubljana
+Europe/London
+Europe/Luxembourg
+Europe/Madrid
+Europe/Malta
+Europe/Mariehamn
+Europe/Minsk
+Europe/Monaco
+Europe/Moscow
+Europe/Oslo
+Europe/Paris
+Europe/Podgorica
+Europe/Prague
+Europe/Riga
+Europe/Rome
+Europe/Samara
+Europe/San_Marino
+Europe/Sarajevo
+Europe/Saratov
+Europe/Simferopol
+Europe/Skopje
+Europe/Sofia
+Europe/Stockholm
+Europe/Tallinn
+Europe/Tirane
+Europe/Ulyanovsk
+Europe/Uzhgorod
+Europe/Vaduz
+Europe/Vatican
+Europe/Vienna
+Europe/Vilnius
+Europe/Volgograd
+Europe/Warsaw
+Europe/Zagreb
+Europe/Zaporozhye
+Europe/Zurich
+Indian/Antananarivo
+Indian/Chagos
+Indian/Christmas
+Indian/Cocos
+Indian/Comoro
+Indian/Kerguelen
+Indian/Mahe
+Indian/Maldives
+Indian/Mauritius
+Indian/Mayotte
+Indian/Reunion
+Pacific/Apia
+Pacific/Auckland
+Pacific/Bougainville
+Pacific/Chatham
+Pacific/Chuuk
+Pacific/Easter
+Pacific/Efate
+Pacific/Enderbury
+Pacific/Fakaofo
+Pacific/Fiji
+Pacific/Funafuti
+Pacific/Galapagos
+Pacific/Gambier
+Pacific/Guadalcanal
+Pacific/Guam
+Pacific/Honolulu
+Pacific/Kiritimati
+Pacific/Kosrae
+Pacific/Kwajalein
+Pacific/Majuro
+Pacific/Marquesas
+Pacific/Midway
+Pacific/Nauru
+Pacific/Niue
+Pacific/Norfolk
+Pacific/Noumea
+Pacific/Pago_Pago
+Pacific/Palau
+Pacific/Pitcairn
+Pacific/Pohnpei
+Pacific/Port_Moresby
+Pacific/Rarotonga
+Pacific/Saipan
+Pacific/Tahiti
+Pacific/Tarawa
+Pacific/Tongatapu
+Pacific/Wake
+Pacific/Wallis
+UTC
+Time Format
+Choose your default timezone
+Signature
+User signature will be append at the bottom of ticket reply box
+Password
+Password will remain same if you are not entering something in this field
+Confirm Password
+Password must contain minimum 8 character length, at least two letters (not case sensitive), one number, one special character(space is not allowed).
+Save Changes
+SAVE CHANGES
+CREATE TICKET
+Customer full name
+Customer email address
+Select Type
+Support
+Choose ticket type
+Ticket subject
+Message
+Query Message
+Add Attachment
+This field is mandatory
+General
+Designation
+Contant Number
+User signature will be append in the bottom of ticket reply box
+Account Status
+Account is Active
+Assigning group(s) to user to view tickets regardless assignment.
+Default
+Select All
+Remove All
+Assigning team(s) to user to view tickets regardless assignment.
+No Team added !
+Permission
+Role
+Administrator
+Select agent role
+Add Customer
+Action
+Account Owner
+Active
+Edit
+Delete
+Disabled
+New Group
+Default Privileges
+New Privileges
+NEW PRIVILEGE
+New Privilege
+New Team
+No Record Found
+Order Synchronization
+Easily integrate different ecommerce platforms with your helpdesk which can then be later used to swiftly integrate ecommerce order details with your support tickets.
+BigCommerce
+No channels have been added.
+Add BigCommerce Store
+ADD BIGCOMMERCE STORE
+Mangento
+Add Magento Store
+OpenCart
+Add OpenCart Store
+ADD OPENCART STORE
+Shopify
+Add Shopify Store
+ADD SHOPIFY STORE
+Integrate a new BigCommerce store
+Your BigCommerce Store Name
+Your BigCommerce Store Hash
+Your BigCommerce Api Token
+Your BigCommerce Api Client ID
+Enable Channel
+Add Store
+ADD STORE
+Integrate a new Magento store
+Your Magento Api Username
+Your Magento Api Password
+Integrate a new OpenCart store
+Your OpenCart Api Key
+Your Shopify Store Name
+Your Shopify Api Key
+Your Shopify Api Password
+Easily embed custom form to help generate helpdesk tickets.
+Form-Builder
+Add Formbuilder
+ADD FORMBUILDER
+No FormBuilder have been added.
+Create a New Custom Form Below
+Form Name
+It will be shown in the list of created forms
+MANDATORY FIELDS
+These fields will be visible in form and cant be edited
+Reply
+OPTIONAL FIELDS
+Select These Fields to Add in your Form
+GDPR
+Order
+Categorybuilder
+File
+Add Form
+ADD FORM
+UPDATE FORM
+Update Form
+Embed
+EMBED
+EMBED FORMBUILDER
+Embed Formbuilder
+Visit
+VISIT
+Code
+Total Ticket(s)
+Ticket Count
+SwiftMailer Configurations
+No swiftmailer configurations found
+CREATE CONFIGURATION
+Add configuration
+Update configuration
+Mailer ID
+Mailer ID - Leave blank to automatically create id
+Transport Type
+SMTP
+Enable Delivery
+Server
+Port
+Encryption Mode
+ssl
+tsl
+None
+Authentication Mode
+login
+API
+Plain
+CRAM-MD5
+Sender Address
+Delivery Address
+Block Spam
+Black list
+Comma (,) separated values (Eg. support@example.com, @example.com, 68.98.31.226)
+White list
+Mailbox Settings
+No mailbox configurations found
+NEW MAILBOX
+New Mailbox
+Update Mailbox
+Add Mailbox
+Mailbox ID - Leave blank to automatically create id
+Mailbox Name
+Enable Mailbox
+Incoming Mail (IMAP) Server
+Configure your imap settings which will be used to fetch emails from your mailbox.
+Transport
+IMAP
+Gmail
+Yahoo
+Host
+IMAP Host
+Email address
+Associated Password
+Outgoing Mail (SMTP) Server
+Select a valid Swift Mailer configuration which will be used to send emails through your mailbox.
+Swift Mailer ID
+None Selected
+Create Mailbox
+CREATE MAILBOX
+New Template
+NEW TEMPLATE
+Customer Forgot Password
+Customer Account Created
+Ticket generated success mail to customer
+Customer Reply To The Agent
+Ticket Assign
+Agent Forgot Password
+Agent Account Created
+Ticket generated by customer
+Agent Reply To The Customers ticket
+Email template name
+Email template subject
+Template For
+Nothing Selected
+email template will be used for work related with selected option
+Email template body
+Body
+placeholders
+Ticket Subject
+Ticket Message
+Ticket Attachments
+Ticket Tags
+Ticket Source
+Ticket Status
+Ticket Priority
+Ticket Group
+Ticket Team
+Ticket Thread Message
+Ticket Customer Name
+Ticket Customer Email
+Ticket Agent Name
+Ticket Agent Email
+Ticket Agent Link
+Ticket Customer Link
+Last Collaborator Name
+Last Collaborator Email
+Agent/ Customer Name
+Account Validation Link
+Password Forgot Link
+Company Name
+Company Logo
+Company URL
+Swiftmailer id (Select from drop down)
+SwiftMailer
+PROCEED
+Proceed
+Theme Color
+Customer Created
+Agent Created
+Ticket Created
+Agent Replied on Ticket
+Customer Replied on Ticket
+Workflow Status
+Workflow is Active
+Events
+An event automatically triggers to check conditions and perform a respective pre-defined set of actions
+Select an Event
+Add More
+Conditions
+Conditions are set of rules which checks for specific scenarios and are triggered on specific occasions
+Subject or Description
+Actions
+An action not only reduces the workload but also makes it quite easier for ticket automation
+Select an Action
+Add Note
+Mail to agent
+Mail to customer
+Mail to group
+Mail to last collaborator
+Mail to team
+Mark Spam
+Assign to agent
+Assign to group
+Set Priority As
+Set Status As
+Set Tag As
+Set Label As
+Assign to team
+Set Type As
+Add Workflow
+ADD WORKFLOW
+Ticket Type code
+Ticket Type description
+Type Status
+Type is Active
+Add Save Reply
+Saved reply name
+Share saved reply with user(s) in these group(s)
+Share saved reply with user(s) in these teams(s)
+Saved reply Body
+New Prepared Response
+Prepared Response Status
+Prepared Response is Active
+Share prepared response with user(s) in these group(s)
+Share prepared response with user(s) in these teams(s)
+ADD PREPARED RESPONSE
+Add Prepared Response
+Folder Name is shown upfront at Knowledge Base
+A small text about the folder helps user to navigate more easily
+Publish
+Choose appropriate status
+Folder Image
+An image is worth a thousands words and makes folder more accessible
+Add Category
+Category Name is shown upfront at Knowledge Base
+A small text about the category helps user to navigate more easily
+Using Category Order, you can decide which category should display first
+Sorting
+Ascending Order (A-Z)
+Descending Order (Z-A)
+Based on Popularity
+Article of this category will display according to selected option
+Article
+Title
+View
+Make as Starred
+Yes
+Revisions
+Delete Article
+Content
+Slug
+Slug is the url identity of this article.
+Meta Title
+Title tags and meta descriptions are bits of HTML code in the header of a web page. They help search engines understand the content on a page. A pages title tag and meta description are usually shown whenever that page appears in search engine results
+Meta Keywords
+Meta Description
+Description
+Team Status
+Team is Active
+Edit Privilege
+Can create ticket
+Can edit ticket
+Can delete ticket
+Can restore trashed ticket
+Can assign ticket
+Can assign ticket group
+Can update ticket status
+Can update ticket priority
+Can update ticket type
+Can add internal notes to ticket
+Can edit thread/notes
+Can lock/unlock thread
+Can add collaborator to ticket
+Can delete collaborator from ticket
+Can delete thread/notes
+Can apply prepared response on ticket
+Can add ticket tags
+Can delete ticket tags
+Can kick other ticket users
+Can manage email templates
+Can manage groups
+Can manage Sub-Groups/ Teams
+Can manage agents
+Can manage agent privileges
+Can manage ticket types
+Can manage ticket custom fields
+Can manage customers
+Can manage Prepared Responses
+Can manage Automatic workflow
+Can manage tags
+Can manage knowledgebase
+Can manage Groups Saved Reply
+Add Privilege
+Choose set of privileges which will be available to the agent.
+Advanced
+Privilege Name must have characters only
+Maximum character length is 50
+Open Tickets
+New Customer
+New Agent
+Total Article(s)
+Please specify a valid email address
+Please enter the password associated with your email address
+Please enter your server host address
+Please specify a port number to connect with your mail server
+Success ! Branding details saved successfully.
+Success ! Time details saved successfully.
+Spam setting saved successfully.
+Please specify a valid name for your mailbox.
+Please select a valid swift-mailer configuration.
+Please specify a valid host address.
+Please specify a valid email address.
+Please enter the associated account password.
+New Saved Reply
+New Category
+Folder
+Category
+Created
+All Articles
+Viewed
+New Article
+Thank you for your feedback!
+Was this article helpful?
+Helpdesk
+Support Center
+Mailboxes
+By
+Search Tickets
+Customer Information
+Total Replies
+Filter With
+Type email to add
+Collaborators
+Labels
+Group
+group
+Contact Team
+Stay on ticket
+Redirect to list
+Nothing interesting here...
+Previous Ticket
+Next Ticket
+Forward
+Note
+Write a reply
+Created Ticket
+All Threads
+Forwards
+Notes
+Pinned
+Edit Ticket
+Print Ticket
+Mark as Spam
+Mark as Closed
+Delete Ticket
+View order details from different eCommerce channels
+ECOMMERCE CHANNELS
+Select channel
+Order Id
+Fetch Order
+No orders have been integrated to this ticket yet.
+Enter your credentials below to gain access to your helpdesk account.
+Keep me logged in
+Forgot Password?
+Log in to your
+Sign In
+Edit Customer
+Update
+Discard
+Cancel
+Not Assigned
+Submit
+Submit And Open
+Submit And Pending
+Submit And Answered
+Submit And Resolved
+Submit And Closed
+Choose a Color
+Create
+Edit Label
+Add Label
+To
+Ticket
+Your browser does not support JavaScript or You disabled JavaScript, Please enable those !
+Confirm Action
+Confirm
+No result found
+ticket delivery status
+Warning! Select valid image file.
+Error
+Save
+SEO
+Edit Saved Filter
+Type atleast 2 letters
+Remove Label
+New Saved Filter
+Is Default
+Remove Saved Filter
+Ticket Info
+Last Replied Agent
+created Ticket
+Uploaded Files
+Download (as .zip)
+made last reply
+N/A
+Unassigned
+Label
+Assigned to me
+Search Query
+Searching
+Saved Filter
+No Label Created
+Label with same name already exist.
+Create New
+Mail status
+replied
+added note
+forwarded
+TO
+CC
+BCC
+Locked
+Edit Thread
+Delete Thread
+Unpin Thread
+Pin Thread
+Unlock Thread
+Lock Thread
+Translate Thread
+Language
+English
+French
+Italian
+Arabic
+German
+Spanish
+Turkish
+Danish
+Chinese
+Polish
+Hebrew
+Portuguese
+System
+Open in Files
+Email address is invalid
+Tag with same name already exist
+Text length should be less than 20 charactors
+Label with same name already exist
+Agent Name
+Agent Email
+open
+Currently active agents on ticket
+Edit Customer Information
+Restore
+Delete Forever
+Add Team
+delete
+You didnt have any folder for current filter(s).
+Add Folder
+This field must have valid characters only
+Can edit task
+Can create task
+Can delete task
+Can add member to task
+Can remove member from task
+Agent Privileges
+Agent Privilege represents overall permissions in System.
+Ticket View
+User can view tickets based on selected scope.
+If individual access then user can View assigned Ticket(s) only, If Team access then user can view all Ticket(s) in team(s) he belongs to and so on
+Global Access
+Group Access
+Team Access
+Individual Access
+This field must have characters only
+Maximum character length is 40
+This is not a valid email address
+Password must contains 8 Characters
+The passwords does not match
+Enabled
+Create Configuration
+Swift Mailer Settings
+Username
+Please select a swiftmailer id
+Please enter a valid e-mail id
+Please enter a mailer id
+Email Id
+Are you sure? You want to perform this action.
+Reorder
+New Workflow
+OR
+AND
+Please enter a valid name.
+Please select a value.
+Please add a value.
+This field is required
+or
+and
+Select a Condition
+Loading...
+Select Option
+Inactive
+New Type
+Placeholders
+Ticket Link
+Id
+Preview
+Sort Order
+This field must be a number
+User
+Edit Group
+Group Status
+Group is Active
+Add Group
+Contact number is invalid
+Edit Agent
+No Privilege added, Please add Privilege(s) first !
+Edit Email Template
+Edit Workflow
+Save Workflow
+Edit Ticket Type
+Add Ticket Type
+Date Released
+Free
+Premium
+Installed
+Installed Applications
+Apps Dashboard
+Dashboard
+ticket
+Add Email Template
+This field contain 100 characters only
+Name length must not be greater than 200 !!
+Warning! Correct all field values first!
+Warning ! This is not a valid request
+Success ! Tag removed successfully.
+Success ! Tags Saved successfully.
+Success ! Revision restored successfully.
+Success ! Categories updated successfully.
+Success ! Article Related removed successfully.
+Success ! Article Related is already added.
+Success ! Cannot add self as relative article.
+Success ! Article Related updated successfully.
+Success ! Articles removed successfully.
+Success ! Article status updated successfully.
+Success ! Article star updated successfully.
+Success! Article updated successfully
+Success ! Category sort  order updated successfully.
+Success ! Category status updated successfully.
+Success ! Folders updated successfully.
+Success ! Categories removed successfully.
+Success ! Category updated successfully.
+Error ! Category is not exist.
+Warning ! Customer Login disabled by admin.
+This Email is not registered with us.
+Your password has been updated successfully.
+Password dont match.
+Error ! Profile image is not valid, please upload a valid format
+Success! Folder has been added successfully.
+Folder updated successfully.
+Success ! Folder status updated successfully.
+Error ! Folder is not exist.
+Success ! Folder updated successfully.
+Error ! Folder does not exist.
+Success ! Folder deleted successfully.
+Warning ! Folder doesnt exists!
+Warning ! Cannot create ticket, given email is blocked by admin.
+Success ! Ticket has been created successfully.
+Warning ! Can not create ticket, invalid details.
+Warning ! Post size can not exceed 25MB
+Create Ticket Request
+Success ! Reply added successfully.
+Warning ! Reply field can not be blank.
+Success ! Rating has been successfully added.
+Warning ! Invalid rating.
+Error ! Can not add customer as a collaborator.
+Success ! Collaborator added successfully.
+Error ! Collaborator is already added.
+Success ! Collaborator removed successfully.
+Error ! Invalid Collaborator.
+An unexpected error occurred. Please try again later.
+Feedback saved successfully.
+Feedback updated successfully.
+Invalid feedback provided.
+Article not found.
+You need to login to your account before can perform this action.
+Warning! Please add valid Actions!
+Warning! In Free Plan you can not change Events!
+Success! Prepared Response has been updated successfully.
+Success! Prepared Response has been added successfully.
+Warning  This is not a valid request
+Use Default Colors
+Masonry
+Popular Article
+Manage Ticket Custom Fields
+Mail status:
+You dont have premission to edit this Prepared response
+Save Prepared Response
+Success ! Prepared response removed successfully.
+Warning! You are not allowed to perform this action.
+Success! Workflow has been updated successfully.
+Success! Workflow has been added successfully.
+Success! Order has been updated successfully.
+Success! Workflow has been removed successfully.
+Mailbox successfully created.
+Mailbox successfully updated.
+Warning ! Bad request !
+Error! Given current password is incorrect.
+Success ! Profile update successfully.
+Error ! User with same email is already exist.
+Success ! Agent updated successfully.
+Success ! Agent removed successfully.
+Warning ! You are allowed to remove account owners account.
+Error ! Invalid user id.
+Success ! Filter has been saved successfully.
+Success ! Filter has been updated successfully.
+Success ! Filter has been removed successfully.
+Please check your mail for password update.
+This Email address is not registered with us.
+Success ! Customer saved successfully.
+Error ! User with same email already exist.
+Success ! Customer information updated successfully.
+Success ! Customer updated successfully.
+Error ! Customer with same email already exist.
+unstarred Action Completed successfully
+starred Action Completed successfully
+Success ! Customer removed successfully.
+Error ! Invalid customer id.
+Success! Template has been updated successfully.
+Success! Template has been added successfully.
+Success! Template has been deleted successfully.
+Warning! resource not found.
+Warning! You can not remove predefined email template which is being used in workflow(s).
+Success ! Email settings are updated successfully.
+Success ! Group information updated successfully.
+Success ! Group information saved successfully.
+Support Group removed successfully.
+Success ! Privilege information saved successfully.
+Privilege updated successfully.
+Support Privilege removed successfully.
+Success! Reply has been updated successfully.
+Success! Reply has been added successfully.
+Success! Saved Reply has been deleted successfully
+SwiftMailer configuration updated successfully.
+Swiftmailer configuration removed successfully.
+Success ! Team information saved successfully.
+Success ! Team information updated successfully.
+Support Team removed successfully.
+Success! Reply has been added successfully
+Success ! Thread updated successfully.
+Error ! Reply field can not be blank.
+Success ! Thread removed successfully.
+Success ! Thread locked successfully
+Success ! Thread unlocked successfully
+Success ! Thread pinned successfully
+Error ! Invalid thread.
+Could not create ticket, invalid details.
+Success ! Tag updated successfully.
+Error ! Customer can not be added as collaborator.
+Success ! Tag unassigned successfully.
+Success ! Tag added successfully.
+Please enter tag name.
+Error ! Invalid tag.
+Success ! Type removed successfully.
+Success ! Ticket to label removed successfully.
+Unable to retrieve support team details
+Ticket support group updated successfully
+Unable to retrieve status details
+Insufficient details provided.
+Error! Subject field is mandatory
+Error! Reply field is mandatory
+Success ! Ticket has been updated successfully.
+Success ! Label updated successfully.
+Error ! Invalid label id.
+Success ! Label removed successfully.
+Success ! Label created successfully.
+Error ! Label name can not be blank.
+Success ! Ticket moved to trash successfully.
+Success! Ticket type saved successfully.
+Success! Ticket type updated successfully.
+Error! Ticket type with same name already exist
+SAVE
+Tickets details have been updated successfully
+Howdy!
+New Ticket Request
+Ticket Requests
+Tickets have been updated successfully
+Please check your mail for password update
+This email address is not registered with us
+You have already update password using this link if you wish to change password again click on forget password link here from login page
+Your password has been successfully updated. Login using updated password
+Please try again, The passwords do not match
+Support Privilege removed successfully
+Success! Saved Reply has been deleted successfully.
+SwiftMailer configuration created successfully.
+No swiftmailer configurations found for mailer id:
+Reply content cannot be left blank.
+Reply added to the ticket and forwarded successfully.
+Success ! Thread pinned successfully.
+Success ! unpinned removed successfully.
+Unable to retrieve priority details
+Ticket support team updated successfully
+Ticket assigned to support group 
+Mailbox configuration removed successfully.
+visit our website
+Cookie Usage Policy
+cookie
+cookies
+HELP
+Home
+Cookie Policy
+Prev
+Ticket query message
+Select type
+Search KnowledgeBase
+You cant merge an account with itself.
+Edit Profile
+Customer Login
+Contact Us
+If you have ever contacted our support previously, your account would have already been created.
+support
+HelpDesk
+Enter search keyword
+Browse via Folders
+Looking for something that is queried generally? Choose a relevant folder from below to explore possible solutions
+Unable to find an answer?
+Looking for anything specific article which resides in general queries? Just browse the various relevant folders and categories and then you will find the desired article.
+Popular Articles
+Here are some of the most popular articles, which helped number of users to get their queries and questions resolved.
+Browse via Categories
+Looking for something specific? Choose a relevant category from below to explore possible solutions
+No Categories Found!
+Powered by
+Powered by %uvdesk%, an open-source project by %webkul%.
+Forgot Password
+Enter your email address and we will send you an email with instructions to update your login credentials.
+Send Mail
+Sign In to %websitename%
+Enter your name
+Enter your email
+Learn more about %deliveryStatus%.
+Some of our site pages utilize %cookies% and other tracking technologies. A %cookie% is a small text file that may be used, for example, to collect information about site activity. Some cookies and other technologies may serve to recall personal information previously indicated by a site user. You may block cookies, or delete existing cookies, by adjusting the appropriate setting on your browser. Please consult the %help% menu of your browser to learn how to do this. If you block or delete %cookies% you may find the usefulness of our site to be impaired.
+To know more about how our privacy policy works, please %websiteLink%.
+This field contain maximum 40 charectures.
+This field contain maximum 50 charectures.
+Time
+Links
+Broadcast Message
+Wide Logo
+Upload an Image (200px x 48px) in</br> PNG or JPG Format
+It will be shown as Logo on Knowledgebase and Helpdesk
+Website Status
+Enable front end website and knowledgebase for customer(s)
+Brand Color
+Page Background Color
+Header Background Color
+Banner Background Color
+Page Link Color
+Page Link Hover Color
+Article Text Color
+Tag Line
+Hi! how can we help?
+Layout
+Ticket Create Option
+Login Required To Create Tickets
+Remove Customer Login/Signin Button
+Disable Customer Login
+Meta Description (Recommended)
+Meta Keywords (Recommended)
+Header Link
+Footer Link
+Custom CSS (Optional)
+It will be add to the frontend knowledgebase only
+Custom Javascript (Optional)
+Broadcast message content to show on helpdesk
+From
+Time duration between which message will be displayed(if applicable)
+Broadcasting Status
+Broadcasting is Active
+Choose a default company timezone
+Date Time Format
+Choose a format to convert date to specified date time format
+An empty file is not allowed.
+File size must not be greater than 200KB !!
+Please upload valid Image file (Only JPEG, JPG, PNG allowed)!!
+Provide a valid url(with protocol)
+ticket.message.placeHolders.info
+ticket.attachments.placeHolders.info
+ticket.threadMessage.placeHolders.info
+ticket.tags.placeHolders.info
+ticket.source.placeHolders.info
+ticket.collaborator.name.placeHolders.info
+ticket.collaborator.email.placeHolders.info
+user.name.info
+user.email.info
+user.account.validate.link.info
+user.password.forgot.link.info
+global.companyName
+global.companyLogo
+global.companyUrl
+ticket.priority.placeHolders.info
+ticket.group.placeHolders.info
+ticket.team.placeHolders.info
+ticket.customerName.placeHolders.info
+ticket.customerEmail.placeHolders.info
+ticket.agentName.placeHolders.info
+ticket.agentEmail.placeHolders.info
+ticket.link.placeHolders.info
+ticket.id.placeHolders.info
+ticket.subject.placeHolders.info
+ticket.status.placeHolders.info
+Low
+Medium
+High
+Urgent
+Reset Password
+Enter your new password below to update your login credentials
+Save Password
+Rate Support
+I am very Sad
+I am Sad
+I am Neutral
+I am Happy
+I am Very Happy
+Kudos
+kudos
+Very Sad
+Sad
+Neutral
+Happy
+Very Happy
+Star(s)
+Invalid credentials.
+Success ! Project cache cleared successfully.
+clear cache
+Last Updated
+Error! Something went wrong.
+We were not able to find the page you are looking for.
+Page not found
+Forbidden
+You don’t have the necessary permissions to access this Web page :(
+Internal server error
+Our system has goofed up for a while, but good part is it won't last long
+Unknown Error
+We are quite confused about how did you land here:/
+Few of the links which may help you to get back on the track -
+Microsoft Apps
+Add a Microsoft app
+Enable
+App Name
+Tenant Id
+Client Id
+Client Secret
+NEW APP:
+UPDATE APP
+Guide on creating a new app in Azure Active Directory:
+To add a new Microsoft App to your azure active directory, follow the steps as given below:
+Go to Azure Active Directory -> App registerations
+Disable
+Please enter a valid name for your app.
+Please enter a valid tenant id.
+Please enter a valid client id.
+Please enter a valid client secret.
+Microsoft app settings
+Unverified
+Microsoft app has been updated successfully.
+No microsoft apps found
+Microsoft app settings could not be verifired successfully. Please check your settings and try again later.
+Microsoft app has been integrated successfully.
+Microsoft app has been deleted successfully.
+Verified
+Create a New Registration
+Enter your app details as following:
+App Name: Enter an app name to easily help you identify its purpose
+Supported Account Types: Select whichever option works the best for you (Recommended: Accounts in any organizational directory and personal Microsoft accounts)
+Redirect URI:
+Select Platform: Web
+Enter the following redirect uri:
+Proceed to create your application
+Create a new client secret
+Enter a description as per your preference to help identify the purpose of this client secret
+Choose an expiration time as per your preference
+Proceed to add your client secret
+Copy the client secret value which will be needed later and cannot be viewed again
+Navigate to API permissions
+Navigate to your app overview section
+Copy the Application (Client) Id
+Copy the Directory (Tenant) Id
+Enter your client id, tenant id, and client secret in settings above as required.
+offline_access
+openid
+profile
+User.Read
+IMAP.AccessAsUser.All
+SMTP.Send
+POP.AccessAsUser.All
+Mail.Read
+Mail.ReadBasic
+Mail.Send
+Mail.Send.Shared
+Add App
+New App
+Disable email delivery
+Use as default mailbox for sending emails
+Inbound Emails
+Manage how you wish to retrieve and process emails from your mailbox.
+Outbound Emails
+Manage how you wish to send emails from your mailbox.
+New Marketing Module
+Marketing Module
+Status:
