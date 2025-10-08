@@ -1,4 +1,4 @@
-# UVdesk Community Edition - Türkçe Sürümü :)
+# UVdesk Community Edition - Türkçe Sürümü
 
 Bu UVdesk Community Edition'un tamamen Türkçeleştirilmiş halidir.
 
