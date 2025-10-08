@@ -41,7 +41,7 @@ Bu UVdesk Community Edition'un tamamen Türkçeleştirilmiş halidir.
 ## Destek
 
 Bu Türkçeleştirilmiş sürüm orijinal UVdesk Community Edition v1.1.8 tabanlıdır.
-Teknik destek için UVdesk'in resmi dokümantasyonunu inceleyebilirsiniz.
+Teknik destek için UVdesk'in resmi dokümantasyonunu inceleyebilirsiniz!
 
 ## Lisans
 
